@@ -1,0 +1,17 @@
+2023-08-29 09:26:59.910 [info] [Info  - 9:26:55 AM] (686) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-29 09:27:00.245 [info] [Info  - 9:27:00 AM] (686) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-29 09:27:00.255 [info] [Info  - 9:27:00 AM] (686) Starting service instance "root"
+2023-08-29 09:27:00.510 [info] [Info  - 9:27:00 AM] (686) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-08-29 09:27:00.528 [info] [Warn  - 9:27:00 AM] (686) stubPath /root/typings is not a valid directory.
+2023-08-29 09:27:00.540 [info] [Info  - 9:27:00 AM] (686) Assuming Python version 3.11
+2023-08-29 09:27:02.627 [info] [Info  - 9:27:02 AM] (686) Found 1 source file
+2023-08-29 09:27:07.941 [info] [Info  - 9:27:07 AM] (686) [BG(1)] Long operation: parsing: /root/code/main.py (2470ms)
+2023-08-29 09:27:13.618 [info] [Info  - 9:27:13 AM] (686) [BG(1)] Long operation: getSemanticTokens full at /root/code/main.py (8149ms)
+2023-08-29 09:27:22.849 [info] [Info  - 9:27:22 AM] (686) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y116sdnNjb2RlLXJlbW90ZQ==.py (2430ms)
+2023-08-29 09:27:22.850 [info] [Info  - 9:27:22 AM] (686) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y116sdnNjb2RlLXJlbW90ZQ==.py (2430ms)
+2023-08-29 09:27:28.309 [info] [Info  - 9:27:28 AM] (686) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:X50sdnNjb2RlLXJlbW90ZQ==.py (4223ms)
+2023-08-29 09:27:28.311 [info] [Info  - 9:27:28 AM] (686) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:X50sdnNjb2RlLXJlbW90ZQ==.py (4223ms)
+2023-08-29 09:27:30.589 [info] [Info  - 9:27:30 AM] (686) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:pylancePrefixCell.py (14830ms)
+2023-08-29 09:27:30.961 [info] [Info  - 9:27:30 AM] (686) [IDX(2)] Long operation: scan packages /root (25734ms)
+2023-08-29 09:27:41.469 [info] [Info  - 9:27:41 AM] (686) [IDX(2)] Long operation: index execution environment /root (8841ms)
+2023-08-29 09:27:41.470 [info] [Info  - 9:27:41 AM] (686) [IDX(2)] Long operation: index packages /root (9197ms)

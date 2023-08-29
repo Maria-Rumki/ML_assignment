@@ -1,0 +1,5 @@
+2023-08-29 14:23:48.846 [info] Expanding terminal instance, old id 53354e54c73793a61b953111aec0faec-2 -> new id undefined
+2023-08-29 14:23:48.851 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty on pty host
+2023-08-29 14:23:48.852 [info] Expanding terminal instance, old id 53354e54c73793a61b953111aec0faec-4 -> new id undefined
+2023-08-29 14:23:59.273 [info] Persistent process reconnection "4"
+2023-08-29 14:24:03.168 [info] Persistent process "4": Replaying 4071 chars and 1 size events

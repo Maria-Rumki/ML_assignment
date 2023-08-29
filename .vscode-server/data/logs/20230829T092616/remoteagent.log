@@ -1,0 +1,193 @@
+2023-08-29 09:26:19.585 [info] 
+
+
+
+
+2023-08-29 09:26:19.586 [info] Extension host agent started.
+2023-08-29 09:26:19.860 [debug] No uninstalled extensions found.
+2023-08-29 09:26:19.888 [info] [127.0.0.1][fc120946][ManagementConnection] New connection established.
+2023-08-29 09:26:19.967 [info] Log level changed to info
+2023-08-29 09:26:21.173 [info] [127.0.0.1][233f262d][ExtensionHostConnection] New connection established.
+2023-08-29 09:26:21.917 [error] [/root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17/package.json: [0, 799] Invalid symbol.
+2023-08-29 09:26:21.927 [error] [/root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17/package.json: [808, 1] End of file expected.
+2023-08-29 09:26:21.935 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2399, 209] .
+2023-08-29 09:26:21.936 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2609, 8] Invalid symbol.
+2023-08-29 09:26:21.936 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2618, 1] Invalid symbol.
+2023-08-29 09:26:21.937 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2619, 1] Comma expected.
+2023-08-29 09:26:21.938 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2619, 1] Property name expected.
+2023-08-29 09:26:21.938 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2620, 5] Invalid symbol.
+2023-08-29 09:26:21.939 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2625, 1] Value expected.
+2023-08-29 09:26:21.940 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2626, 15] Invalid symbol.
+2023-08-29 09:26:21.940 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2641, 1] Comma expected.
+2023-08-29 09:26:21.941 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2641, 1] Value expected.
+2023-08-29 09:26:21.942 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2642, 2] Invalid symbol.
+2023-08-29 09:26:21.942 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2645, 20] Invalid symbol.
+2023-08-29 09:26:21.943 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2665, 1] Value expected.
+2023-08-29 09:26:21.943 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2666, 127] Invalid symbol.
+2023-08-29 09:26:21.944 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2794, 3] Invalid symbol.
+2023-08-29 09:26:21.944 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2798, 74] Invalid symbol.
+2023-08-29 09:26:21.945 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2873, 32] Invalid symbol.
+2023-08-29 09:26:21.947 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2906, 1] Invalid symbol.
+2023-08-29 09:26:21.948 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2908, 20] Invalid symbol.
+2023-08-29 09:26:21.948 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2929, 2] Invalid symbol.
+2023-08-29 09:26:21.949 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2932, 59] Invalid symbol.
+2023-08-29 09:26:21.949 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2991, 1] Value expected.
+2023-08-29 09:26:21.950 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [2992, 8] Invalid symbol.
+2023-08-29 09:26:21.950 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3001, 38] Invalid symbol.
+2023-08-29 09:26:21.951 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3040, 3] Invalid symbol.
+2023-08-29 09:26:21.951 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3044, 19] Invalid symbol.
+2023-08-29 09:26:21.952 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3064, 15] Invalid symbol.
+2023-08-29 09:26:21.953 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3080, 2] Invalid symbol.
+2023-08-29 09:26:21.953 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3083, 20] Invalid symbol.
+2023-08-29 09:26:21.954 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3103, 1] Value expected.
+2023-08-29 09:26:21.954 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3104, 15] Invalid symbol.
+2023-08-29 09:26:21.955 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3120, 2] Invalid symbol.
+2023-08-29 09:26:21.955 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3123, 20] Invalid symbol.
+2023-08-29 09:26:21.956 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3143, 1] Value expected.
+2023-08-29 09:26:21.957 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3144, 15] Invalid symbol.
+2023-08-29 09:26:21.957 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3160, 37] Invalid symbol.
+2023-08-29 09:26:21.958 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3198, 2] Invalid symbol.
+2023-08-29 09:26:21.958 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3201, 11] Invalid symbol.
+2023-08-29 09:26:21.959 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3213, 8] Invalid symbol.
+2023-08-29 09:26:21.959 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3222, 2] Invalid symbol.
+2023-08-29 09:26:21.960 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3225, 28] Invalid symbol.
+2023-08-29 09:26:21.960 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3254, 3] Invalid symbol.
+2023-08-29 09:26:21.961 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3258, 50] Invalid symbol.
+2023-08-29 09:26:21.961 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3309, 8] Invalid symbol.
+2023-08-29 09:26:21.963 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3318, 7] Invalid symbol.
+2023-08-29 09:26:21.964 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3326, 22] Invalid symbol.
+2023-08-29 09:26:21.965 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3349, 2] Invalid symbol.
+2023-08-29 09:26:21.967 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3352, 20] Invalid symbol.
+2023-08-29 09:26:21.967 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3372, 1] Value expected.
+2023-08-29 09:26:21.968 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3373, 3] Invalid symbol.
+2023-08-29 09:26:21.968 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3377, 19] Invalid symbol.
+2023-08-29 09:26:21.969 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3397, 15] Invalid symbol.
+2023-08-29 09:26:21.969 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3413, 2] Invalid symbol.
+2023-08-29 09:26:21.970 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3416, 49] Invalid symbol.
+2023-08-29 09:26:21.970 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3466, 9] Invalid symbol.
+2023-08-29 09:26:21.971 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3475, 1] Value expected.
+2023-08-29 09:26:21.971 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3476, 6] Invalid symbol.
+2023-08-29 09:26:21.972 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3482, 1] Value expected.
+2023-08-29 09:26:21.972 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3483, 6] Invalid symbol.
+2023-08-29 09:26:21.973 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3490, 8] Invalid symbol.
+2023-08-29 09:26:21.973 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3499, 2] Invalid symbol.
+2023-08-29 09:26:21.974 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3502, 9] Invalid symbol.
+2023-08-29 09:26:21.974 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3511, 0] Value expected.
+2023-08-29 09:26:21.975 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3511, 0] Closing bracket expected.
+2023-08-29 09:26:21.975 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3511, 0] Closing brace expected.
+2023-08-29 09:26:21.976 [error] [/root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8]: Failed to parse /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8/package.json: [3511, 0] Closing brace expected.
+2023-08-29 09:26:22.417 [info] [127.0.0.1][233f262d][ExtensionHostConnection] <379> Launched Extension Host Process.
+2023-08-29 09:27:00.004 [info] [127.0.0.1][233f262d][ExtensionHostConnection] <379> Starting WebSocket: RAW/api/kernels/4343eeab-2ba4-495e-8e12-5510c7599fc7
+
+2023-08-29 09:28:15.901 [info] [127.0.0.1][fc120946][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 09:28:15.906 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.914 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.915 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.917 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.918 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.919 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.920 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.922 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:15.922 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 09:28:20.042 [info] [127.0.0.1][233f262d][ExtensionHostConnection] <379> Extension Host Process exited with code: 0, signal: null.
+2023-08-29 13:24:44.113 [info] [127.0.0.1][fc3ffe39][ManagementConnection] New connection established.
+2023-08-29 13:24:44.855 [info] [127.0.0.1][c51e0d51][ExtensionHostConnection] New connection established.
+2023-08-29 13:24:45.243 [info] [127.0.0.1][c51e0d51][ExtensionHostConnection] <1940> Launched Extension Host Process.
+2023-08-29 13:25:04.683 [info] [127.0.0.1][fc3ffe39][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 13:25:04.689 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:04.705 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:04.706 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:04.708 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:04.709 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:04.710 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 13:25:06.313 [info] [127.0.0.1][c51e0d51][ExtensionHostConnection] <1940> Extension Host Process exited with code: 0, signal: null.

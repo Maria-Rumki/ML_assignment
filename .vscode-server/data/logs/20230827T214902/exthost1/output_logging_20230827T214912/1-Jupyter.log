@@ -1,0 +1,55 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder /root, Home = /root
+21:49:19.646 [info] User belongs to experiment group 'FastKernelPicker'
+21:49:19.646 [info] User belongs to experiment group 'NewRemoteUriStorage'
+21:49:19.647 [info] User belongs to experiment group 'PasswordManager'
+21:49:19.647 [info] User belongs to experiment group 'NewJupyterSession'
+21:49:20.507 [info] Start refreshing Kernel Picker (1693172960507)
+21:49:20.527 [info] Using Pylance
+21:49:23.450 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/experiment_1.ipynb' (disableUI=true)
+21:49:24.952 [info] End refreshing Kernel Picker (1693172960507)
+21:49:25.079 [warn] Failed to get activated env vars for /usr/local/bin/python in 1924ms
+21:49:25.124 [warn] Failed to get activated env vars for /usr/local/bin/python in 1507ms
+21:49:25.161 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+21:49:25.320 [info] Process Execution: /usr/local/bin/python -m pip list
+21:49:25.333 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:49:25.363 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3e11ee2c-0ffa-432f-a646-3ad3a33d10ec" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-312Bd2POSpr3zMT.json
+    > cwd: ~/code
+21:49:26.337 [info] ipykernel version & path 6.25.1, ~/.local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+21:49:29.091 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+21:49:29.263 [info] Started Kernel Python 3.11.4 (pid: 574)
+21:49:29.264 [info] Started new session 983b5ae3-0ed5-4292-b409-2019f7cb0595
+21:49:29.469 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py
+21:51:36.024 [info] Handle Execution of Cells 1 for ~/code/experiment_1.ipynb
+21:51:36.050 [info] Kernel acknowledged execution of cell 1 @ 1693173096039
+21:51:36.061 [info] End cell 1 execution @ 1693173096047, started @ 1693173096039, elapsed time = 0.008s
+21:51:47.254 [info] Handle Execution of Cells 2 for ~/code/experiment_1.ipynb
+21:51:47.282 [info] Kernel acknowledged execution of cell 2 @ 1693173107262
+21:51:47.292 [info] End cell 2 execution @ 1693173107271, started @ 1693173107262, elapsed time = 0.009s
+21:51:52.831 [info] Handle Execution of Cells 1 for ~/code/experiment_1.ipynb
+21:51:52.848 [info] Kernel acknowledged execution of cell 1 @ 1693173112841
+21:51:52.857 [info] End cell 1 execution @ 1693173112849, started @ 1693173112841, elapsed time = 0.008s
+21:56:54.414 [info] Handle Execution of Cells 4 for ~/code/experiment_1.ipynb
+21:56:54.486 [info] Kernel acknowledged execution of cell 4 @ 1693173414471
+21:56:55.881 [info] End cell 4 execution @ 1693173415869, started @ 1693173414471, elapsed time = 1.398s
+21:57:10.122 [info] Handle Execution of Cells 5 for ~/code/experiment_1.ipynb
+21:57:10.163 [info] Kernel acknowledged execution of cell 5 @ 1693173430141
+21:57:10.176 [info] End cell 5 execution @ 1693173430167, started @ 1693173430141, elapsed time = 0.026s
+22:07:08.464 [info] Handle Execution of Cells 6 for ~/code/experiment_1.ipynb
+22:07:08.492 [info] Kernel acknowledged execution of cell 6 @ 1693174028485
+22:07:08.868 [info] End cell 6 execution @ 1693174028857, started @ 1693174028485, elapsed time = 0.372s
+22:07:08.871 [warn] Cancel all remaining cells due to cancellation or failure in execution
+22:10:41.681 [info] Handle Execution of Cells 6 for ~/code/experiment_1.ipynb
+22:10:41.706 [info] Kernel acknowledged execution of cell 6 @ 1693174241697
+22:10:42.794 [info] End cell 6 execution @ 1693174242788, started @ 1693174241697, elapsed time = 1.091s
+22:11:28.034 [info] Disposing HostJupyterExecution
+22:11:28.034 [info] Shutting down notebooks for 526a0010-03e1-46c0-95fe-84880b9607fd
+22:11:28.034 [info] Dispose Kernel '~/code/experiment_1.ipynb' associated with '~/code/experiment_1.ipynb'
+22:11:28.037 [info] Dispose Kernel process 574.
+22:11:28.050 [info] Disposing HostJupyterExecution

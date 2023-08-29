@@ -1,0 +1,149 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder /root, Home = /root
+19:47:09.204 [info] User belongs to experiment group 'FastKernelPicker'
+19:47:09.213 [info] User belongs to experiment group 'NewRemoteUriStorage'
+19:47:09.223 [info] User belongs to experiment group 'PasswordManager'
+19:47:09.223 [info] User belongs to experiment group 'NewJupyterSession'
+19:47:45.635 [info] Start refreshing Kernel Picker (1693165665635)
+19:47:45.805 [info] Using Pylance
+19:48:24.719 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/experiment_1.ipynb' (disableUI=true)
+19:48:27.760 [info] End refreshing Kernel Picker (1693165665635)
+19:48:37.931 [warn] Failed to get activated env vars for /usr/local/bin/python in 11860ms
+19:48:38.161 [warn] Failed to get activated env vars for /usr/local/bin/python in 21202ms
+19:48:38.621 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+19:48:41.261 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:48:41.600 [info] Process Execution: /usr/local/bin/python -m pip list
+19:48:41.920 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"8b29e98c-f21a-4f41-86a9-f1c2f9a3b04d" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-426IoXMb18due9g.json
+    > cwd: ~/code
+19:48:42.500 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /usr/local/bin/python
+19:48:44.400 [warn] StdErr from Kernel Process /usr/local/bin/python: No module named ipykernel_launcher
+19:48:44.490 [error] Disposing kernel process due to an error Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:48:44.500 [info] Dispose Kernel process 1672.
+19:48:44.591 [error] Kernel Launcher. launch, Class name = Ky, completed in 18530ms, has a falsy return value, Arg 1: ".jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/code/experiment_1.ipynb", Arg 4: "~/code", Arg 5: "" Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:48:44.601 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+19:48:44.660 [warn] Error occurred while trying to start the kernel, options.disableUI=true Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:49:22.506 [info] Handle Execution of Cells 1 for ~/code/experiment_1.ipynb
+19:49:23.725 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/experiment_1.ipynb' (disableUI=false)
+19:49:24.246 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:49:25.386 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /usr/local/bin/python
+19:49:26.076 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"6911fd71-a2e2-44cf-93a3-b7d0643556e7" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-426JlgE58vcYIzD.json
+    > cwd: ~/code
+19:49:27.176 [warn] StdErr from Kernel Process /usr/local/bin/python: No module named ipykernel_launcher
+19:49:27.306 [error] Disposing kernel process due to an error Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:49:27.316 [info] Dispose Kernel process 1929.
+19:49:27.405 [error] Kernel Launcher. launch, Class name = Ky, completed in 3460ms, has a falsy return value, Arg 1: ".jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/code/experiment_1.ipynb", Arg 4: "~/code", Arg 5: "" Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:49:27.416 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+19:49:27.436 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:49:27.456 [warn] Kernel Error, context = start Error: The kernel died. Error: /usr/local/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:91039)
+    > stdErr = /usr/local/bin/python: No module named ipykernel_launcher
+19:49:29.746 [warn] Failed to get activated env vars for /usr/local/bin/python in 2150ms
+19:49:29.956 [info] Process Execution: /usr/local/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:49:31.186 [info] Check & install missing Kernel dependencies for /usr/local/bin/python, ui.disabled=false for resource '~/code/experiment_1.ipynb'
+19:49:31.426 [info] Process Execution: /usr/local/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:49:32.518 [info] Process Execution: /usr/local/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:49:47.008 [info] Process Execution: /usr/local/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:49:48.388 [info] Process Execution: /usr/local/bin/python -m pip install -U --user ipykernel
+19:58:24.135 [warn] Failed to get activated env vars for /usr/local/bin/python in 1051ms
+19:58:24.634 [info] Process Execution: /usr/local/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:58:37.491 [info] Process Execution: /usr/local/bin/python -m pip list
+19:58:37.542 [info] Dispose Kernel '~/code/experiment_1.ipynb' associated with '~/code/experiment_1.ipynb'
+19:58:37.711 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/experiment_1.ipynb' (disableUI=false)
+19:58:39.132 [warn] Failed to get activated env vars for /usr/local/bin/python in 1130ms
+19:58:39.431 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:58:39.821 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"c0e42c09-9a77-4355-95f9-55830a8bcd50" --shell=9018 --transport="tcp" --iopub=9020 --f=~/.local/share/jupyter/runtime/kernel-v2-426PEf6NlKK6qjP.json
+    > cwd: ~/code
+19:58:58.032 [info] ipykernel version & path 6.25.1, ~/.local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+19:59:37.075 [warn] StdErr from Kernel Process 0.03s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+19:59:39.825 [warn] StdErr from Kernel Process ~/.local/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+19:59:39.835 [warn] StdErr from Kernel Process ~/.local/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'c0e42c09-9a77-4355-95f9-55830a8bcd50' instead of 'b"c0e42c09-9a77-4355-95f9-55830a8bcd50"'.
+  warn(
+19:59:39.855 [error] waitUntilUsed timed out [Error: timeout
+	at Timeout.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/151.node.js:1:17132)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7)]
+19:59:39.985 [error] Disposing kernel process due to an error Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:39.985 [error] 0.03s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+~/.local/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+~/.local/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'c0e42c09-9a77-4355-95f9-55830a8bcd50' instead of 'b"c0e42c09-9a77-4355-95f9-55830a8bcd50"'.
+  warn(
+19:59:39.985 [info] Dispose Kernel process 4943.
+19:59:40.695 [error] Kernel Launcher. launch, Class name = Ky, completed in 62683ms, has a falsy return value, Arg 1: ".jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/code/experiment_1.ipynb", Arg 4: "~/code", Arg 5: "" Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:40.745 [error] Failed to connect raw kernel session: Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+19:59:40.825 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:40.835 [warn] Kernel Error, context = start Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:42.005 [warn] Failed to get activated env vars for /usr/local/bin/python in 980ms
+19:59:42.265 [info] Process Execution: /usr/local/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+19:59:54.545 [info] Dispose Kernel '~/code/experiment_1.ipynb' associated with '~/code/experiment_1.ipynb'
+19:59:54.645 [error] Error in execution Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:54.735 [error] Error in execution (get message for cell) Error: Unable to start Kernel 'Python 3.11.4' due to a timeout waiting for the ports to get used. 
+View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher
+    > Interpreter Id = /usr/local/bin/python
+    > at ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:92295
+19:59:55.845 [info] End cell 1 execution @ undefined, started @ undefined, elapsed time = 0s
+20:03:13.714 [info] Start refreshing Interpreter Kernel Picker
+20:03:13.814 [info] Start refreshing Kernel Picker (1693166593814)
+20:03:34.291 [info] End refreshing Kernel Picker (1693166593814)

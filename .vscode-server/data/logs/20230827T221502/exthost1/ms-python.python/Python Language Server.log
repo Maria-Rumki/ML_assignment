@@ -1,0 +1,26 @@
+2023-08-27 22:15:46.588 [info] [Info  - 10:15:45 PM] (717) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-27 22:15:46.599 [info] [Info  - 10:15:46 PM] (717) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-27 22:15:46.601 [info] [Info  - 10:15:46 PM] (717) Starting service instance "root"
+2023-08-27 22:15:46.741 [info] [Info  - 10:15:46 PM] (717) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-08-27 22:15:46.750 [info] [Warn  - 10:15:46 PM] (717) stubPath /root/typings is not a valid directory.
+2023-08-27 22:15:46.792 [info] [Info  - 10:15:46 PM] (717) Assuming Python version 3.11
+2023-08-27 22:15:49.536 [info] [Info  - 10:15:49 PM] (717) Found 1 source file
+2023-08-27 22:15:54.395 [info] [Info  - 10:15:54 PM] (717) [BG(1)] Long operation: parsing: /root/code/main.py (2985ms)
+2023-08-27 22:15:55.203 [info] [Info  - 10:15:55 PM] (717) [BG(1)] Long operation: indexing: /root/code/main.py (3798ms)
+2023-08-27 22:16:00.326 [info] [Info  - 10:16:00 PM] (717) [BG(1)] Long operation: parsing: /root/code/experiment_1.ipynb:pylance-notebook-cell:W4sdnNjb2RlLXJlbW90ZQ==.py (2267ms)
+2023-08-27 22:16:00.742 [info] [Info  - 10:16:00 PM] (717) [BG(1)] Long operation: analyzing: /root/code/experiment_1.ipynb:pylance-notebook-cell:W6sdnNjb2RlLXJlbW90ZQ==.py (3905ms)
+2023-08-27 22:16:02.943 [info] [Info  - 10:16:02 PM] (717) [BG(1)] Long operation: checking: /root/code/experiment_1.ipynb:pylance-notebook-cell:W5sdnNjb2RlLXJlbW90ZQ==.py (2201ms)
+2023-08-27 22:16:02.944 [info] [Info  - 10:16:02 PM] (717) [BG(1)] Long operation: analyzing: /root/code/experiment_1.ipynb:pylance-notebook-cell:W5sdnNjb2RlLXJlbW90ZQ==.py (2201ms)
+2023-08-27 22:16:03.910 [info] [Info  - 10:16:03 PM] (717) [BG(1)] Long operation: analyzing: /root/code/experiment_1.ipynb:pylance-notebook-cell:pylancePrefixCell.py (7073ms)
+2023-08-27 22:16:17.695 [info] [Info  - 10:16:17 PM] (717) [IDX(2)] Long operation: scan packages /root (24288ms)
+2023-08-27 22:16:55.609 [info] [Info  - 10:16:55 PM] (717) [IDX(2)] Long operation: parsing: /usr/local/lib/python3.11/site-packages/IPython/__init__.py (28241ms)
+2023-08-27 22:16:56.623 [info] [Info  - 10:16:56 PM] (717) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/site-packages/IPython/__init__.py (29257ms)
+2023-08-27 22:17:04.107 [info] [Info  - 10:17:04 PM] (717) [IDX(2)] Long operation: parsing: /usr/local/lib/python3.11/site-packages/numpy/__init__.pyi (2054ms)
+2023-08-27 22:17:04.521 [info] [Info  - 10:17:04 PM] (717) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/site-packages/numpy/__init__.pyi (2469ms)
+2023-08-27 22:17:07.456 [info] [Info  - 10:17:07 PM] (717) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/site-packages/prompt_toolkit/__init__.py (2887ms)
+2023-08-27 22:17:11.403 [info] [Info  - 10:17:11 PM] (717) [IDX(2)] Long operation: parsing: /usr/local/lib/python3.11/site-packages/scipy/__init__.py (3928ms)
+2023-08-27 22:17:11.405 [info] [Info  - 10:17:11 PM] (717) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/site-packages/scipy/__init__.py (3933ms)
+2023-08-27 22:17:17.377 [info] [Info  - 10:17:17 PM] (717) [IDX(2)] Long operation: binding: /usr/local/lib/python3.11/site-packages/scipy/special/__init__.py (2038ms)
+2023-08-27 22:17:17.384 [info] [Info  - 10:17:17 PM] (717) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/site-packages/scipy/special/__init__.py (2096ms)
+2023-08-27 22:17:19.429 [info] [Info  - 10:17:19 PM] (717) [IDX(2)] Long operation: index execution environment /root (52077ms)
+2023-08-27 22:17:22.711 [info] [Info  - 10:17:22 PM] (717) [IDX(2)] Long operation: index packages /root (62648ms)

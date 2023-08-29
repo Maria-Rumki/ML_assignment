@@ -1,0 +1,22 @@
+2023-08-29 13:42:55.330 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-29 13:42:55.332 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-29 13:42:55.333 [info] Experiment 'pythonSurveyNotification' is active
+2023-08-29 13:42:55.334 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-29 13:42:55.334 [info] Test server listening.
+2023-08-29 13:42:55.335 [info] > conda info --json
+2023-08-29 13:42:55.336 [info] Python interpreter path: /usr/local/bin/python
+2023-08-29 13:42:55.797 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-29 13:42:55.903 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-29 13:42:56.768 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-29 13:42:56.786 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-29 13:42:56.981 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-08-29 13:42:56.983 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-08-29 13:42:56.986 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-08-29 13:42:57.115 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 13:42:57.824 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 13:42:58.337 [info] > /usr/local/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 13:43:14.358 [info] Starting Pylance language server.
+2023-08-29 13:45:12.947 [info] DAP Server launched with command: /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-29 13:45:29.678 [info] Send text to terminal:  /usr/bin/env /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57991 -- /root/code/main.py 
+2023-08-29 13:45:33.229 [info] DAP Server launched with command: /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-29 13:45:38.874 [info] Send text to terminal:  cd /root ; /usr/bin/env /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59329 -- /root/code/main.py 

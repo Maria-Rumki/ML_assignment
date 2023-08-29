@@ -1,0 +1,27 @@
+2023-08-29 02:54:29.842 [info] Extension host with pid 363 started
+2023-08-29 02:54:30.227 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-08-29 02:54:30.937 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/53354e54c73793a61b953111aec0faec/vscode.lock': Lock acquired.
+2023-08-29 02:54:31.088 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-29 02:54:31.269 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-29 02:54:31.323 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-29 02:54:33.299 [info] Eager extensions activated
+2023-08-29 02:54:33.301 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 02:54:33.303 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 02:54:33.975 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-29 02:54:33.977 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-29 02:54:33.979 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-08-29 02:54:33.982 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-08-29 02:54:36.030 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-08-29 02:54:36.032 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-08-29 02:54:36.034 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-29 02:54:43.059 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-08-29 04:28:45.283 [error] [ms-python.python] provider FAILED
+2023-08-29 04:28:45.310 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:71018
+	at _0x43fdbb (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:82653)
+	at async ce.provideCompletionItems (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/workbench/api/node/extensionHostProcess.js:105:50188)
+2023-08-29 04:53:27.502 [error] [ms-python.python] provider FAILED
+2023-08-29 04:53:27.503 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:71018
+	at _0x43fdbb (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:82653)
+	at async ce.provideCompletionItems (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/workbench/api/node/extensionHostProcess.js:105:50188)

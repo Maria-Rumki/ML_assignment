@@ -1,0 +1,350 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder /root, Home = /root
+16:18:25.330 [info] User belongs to experiment group 'FastKernelPicker'
+16:18:25.331 [info] User belongs to experiment group 'NewRemoteUriStorage'
+16:18:25.331 [info] User belongs to experiment group 'PasswordManager'
+16:18:25.331 [info] User belongs to experiment group 'NewJupyterSession'
+16:18:26.816 [info] Start refreshing Kernel Picker (1693239506816)
+16:18:26.831 [info] Using Pylance
+16:18:31.080 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/experiment_1.ipynb' (disableUI=true)
+16:18:31.919 [info] End refreshing Kernel Picker (1693239506816)
+16:18:33.047 [warn] Failed to get activated env vars for /usr/local/bin/python in 1786ms
+16:18:33.077 [warn] Failed to get activated env vars for /usr/local/bin/python in 2368ms
+16:18:33.102 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+16:18:33.495 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:18:33.515 [info] Process Execution: /usr/local/bin/python -m pip list
+16:18:33.540 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"775bd722-8948-4188-8362-c8f84188fee1" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-383JnzLUcYqL2au.json
+    > cwd: ~/code
+16:18:36.580 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+16:18:41.890 [warn] StdErr from Kernel Process 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:18:42.186 [info] Started Kernel Python 3.11.4 (pid: 700)
+16:18:42.187 [info] Started new session a10b2067-feab-4901-af0d-08ac93531285
+16:18:42.430 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py
+16:20:11.738 [info] Dispose Kernel '~/code/experiment_1.ipynb' associated with '~/code/experiment_1.ipynb'
+16:20:11.750 [info] Dispose Kernel process 700.
+16:20:12.089 [info] Start refreshing Interpreter Kernel Picker
+16:20:12.090 [info] Start refreshing Kernel Picker (1693239612090)
+16:20:12.129 [warn] No interpreter for Pylance for Notebook URI "~/code/Car_prediction.ipynb"
+16:20:15.367 [info] End refreshing Kernel Picker (1693239612090)
+16:20:17.544 [warn] No interpreter for Pylance for Notebook URI "~/code/Car_prediction.ipynb"
+16:24:35.576 [warn] No interpreter for Pylance for Notebook URI "~/code/ML_Car_prediction.ipynb"
+16:31:26.963 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/Car_prediction.ipynb' (disableUI=true)
+16:31:27.327 [warn] Failed to get activated env vars for /usr/local/bin/python in 346ms
+16:31:27.341 [info] Process Execution: /usr/local/bin/python -m pip list
+16:31:27.364 [warn] Failed to get activated env vars for /usr/local/bin/python in 359ms
+16:31:27.378 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:31:27.392 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"379ae2f2-ce34-45b8-82e6-01ec857277c8" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-383eEsJ1xUrGJKS.json
+    > cwd: ~/code
+16:31:28.860 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+16:31:30.108 [info] Handle Execution of Cells 0 for ~/code/Car_prediction.ipynb
+16:31:31.526 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:31:32.080 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+16:31:32.081 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '379ae2f2-ce34-45b8-82e6-01ec857277c8' instead of 'b"379ae2f2-ce34-45b8-82e6-01ec857277c8"'.
+  warn(
+16:31:33.080 [info] Started Kernel Python 3.11.4 (pid: 8007)
+16:31:33.081 [info] Started new session 9629d245-db9a-43bf-962f-000171b50479
+16:31:33.311 [info] Kernel acknowledged execution of cell 0 @ 1693240293273
+16:31:38.638 [info] End cell 0 execution @ 1693240298625, started @ 1693240293273, elapsed time = 5.352s
+16:31:41.748 [info] Handle Execution of Cells 0 for ~/code/Car_prediction.ipynb
+16:31:41.779 [info] Kernel acknowledged execution of cell 0 @ 1693240301766
+16:31:41.793 [info] End cell 0 execution @ 1693240301778, started @ 1693240301766, elapsed time = 0.012s
+16:31:53.878 [info] Handle Execution of Cells 1 for ~/code/Car_prediction.ipynb
+16:31:53.908 [info] Kernel acknowledged execution of cell 1 @ 1693240313893
+16:31:54.772 [info] End cell 1 execution @ 1693240314743, started @ 1693240313893, elapsed time = 0.85s
+16:31:54.774 [warn] Cancel all remaining cells due to cancellation or failure in execution
+16:32:16.482 [info] Handle Execution of Cells 1 for ~/code/Car_prediction.ipynb
+16:32:16.513 [info] Kernel acknowledged execution of cell 1 @ 1693240336498
+16:32:16.786 [info] End cell 1 execution @ 1693240336778, started @ 1693240336498, elapsed time = 0.28s
+16:32:21.931 [info] Handle Execution of Cells 1 for ~/code/Car_prediction.ipynb
+16:32:21.961 [info] Kernel acknowledged execution of cell 1 @ 1693240341952
+16:32:22.097 [info] End cell 1 execution @ 1693240342082, started @ 1693240341952, elapsed time = 0.13s
+16:32:49.860 [info] Handle Execution of Cells 2 for ~/code/Car_prediction.ipynb
+16:32:49.897 [info] Kernel acknowledged execution of cell 2 @ 1693240369883
+16:32:49.917 [info] End cell 2 execution @ 1693240369901, started @ 1693240369883, elapsed time = 0.018s
+16:33:00.638 [info] Handle Execution of Cells 0 for ~/code/ML_Car_prediction.ipynb
+16:33:00.680 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/ML_Car_prediction.ipynb' (disableUI=false)
+16:33:01.249 [warn] Failed to get activated env vars for /usr/local/bin/python in 556ms
+16:33:01.355 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:33:01.373 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"c1bf2adf-95ff-4ff1-a67e-665d1d455511" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-383MLXZak5NYxNJ.json
+    > cwd: ~/code
+16:33:02.004 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+16:33:11.277 [info] Interrupt requested ~/code/ML_Car_prediction.ipynb
+16:33:23.958 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:33:27.669 [info] Started Kernel Python 3.11.4 (pid: 8899)
+16:33:27.698 [info] Started new session 4dd6bbb2-0b27-4d7c-b99c-f778630f1855
+16:33:27.955 [info] Interrupt kernel execution
+16:33:27.957 [info] Interrupting kernel: pythonjvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1
+16:33:27.976 [info] Interrupting kernel via SIGINT
+16:33:27.985 [info] Interrupt requested & sent for ~/code/ML_Car_prediction.ipynb in notebookEditor.
+16:33:28.031 [warn] StdErr from Kernel Process Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/IPython/core/completer.py", line 3171, in _complete
+    result = matcher(context)
+             ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/IPython/core/completer.py", line 2004, in file_matcher
+    matches = self.file_matches(context.token)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/IPython/core/completer.py", line 2072, in file_matches
+    m0 = self.clean_glob(text.replace('\\', ''))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/IPython/core/completer.py", line 1995, in _clean_glob
+    return self.glob("%s*" % text)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/glob.py", line 28, in glob
+    return list(iglob(pathname, <username>_dir=<username>_dir, dir_fd=dir_fd, recursive=recursive,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/glob.py", line 78, in _iglob
+    yield from _glob1(<username>_dir, basename, dir_fd, dironly,
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/glob.py", line 106, in _glob1
+    names = _listdir(dirname, dir_fd, dironly)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/glob.py", line 177, in _listdir
+    return list(it)
+           ^^^^^^^^
+  File "/usr/local/lib/python3.11/glob.py", line 159, in _iterdir
+    with os.scandir(arg) as it:
+KeyboardInterrupt
+16:33:28.179 [info] Kernel acknowledged execution of cell 0 @ 1693240408025
+16:33:51.575 [info] End cell 0 execution @ 1693240431557, started @ 1693240408025, elapsed time = 23.532s
+16:33:55.750 [info] Handle Execution of Cells 1 for ~/code/ML_Car_prediction.ipynb
+16:33:55.845 [info] Kernel acknowledged execution of cell 1 @ 1693240435822
+16:34:01.617 [info] End cell 1 execution @ 1693240441588, started @ 1693240435822, elapsed time = 5.766s
+16:34:01.618 [warn] Cancel all remaining cells due to cancellation or failure in execution
+16:34:22.866 [info] Handle Execution of Cells 1 for ~/code/ML_Car_prediction.ipynb
+16:34:22.911 [info] Kernel acknowledged execution of cell 1 @ 1693240462895
+16:34:23.300 [info] End cell 1 execution @ 1693240463275, started @ 1693240462895, elapsed time = 0.38s
+16:34:27.139 [info] Handle Execution of Cells 2 for ~/code/ML_Car_prediction.ipynb
+16:34:28.200 [info] Kernel acknowledged execution of cell 2 @ 1693240467700
+16:34:28.219 [info] End cell 2 execution @ 1693240467718, started @ 1693240467700, elapsed time = 0.018s
+16:34:55.280 [info] Handle Execution of Cells 4 for ~/code/ML_Car_prediction.ipynb
+16:34:55.427 [info] Kernel acknowledged execution of cell 4 @ 1693240495399
+16:34:55.450 [info] End cell 4 execution @ 1693240495438, started @ 1693240495399, elapsed time = 0.039s
+16:35:08.602 [info] Handle Execution of Cells 5 for ~/code/ML_Car_prediction.ipynb
+16:35:08.637 [info] Kernel acknowledged execution of cell 5 @ 1693240508622
+16:35:08.652 [info] End cell 5 execution @ 1693240508639, started @ 1693240508622, elapsed time = 0.017s
+16:35:21.414 [info] Handle Execution of Cells 6 for ~/code/ML_Car_prediction.ipynb
+16:35:21.477 [info] Kernel acknowledged execution of cell 6 @ 1693240521452
+16:35:21.567 [info] End cell 6 execution @ 1693240521559, started @ 1693240521452, elapsed time = 0.107s
+16:35:48.492 [info] Handle Execution of Cells 7 for ~/code/ML_Car_prediction.ipynb
+16:35:48.514 [info] Kernel acknowledged execution of cell 7 @ 1693240548509
+16:35:48.800 [info] End cell 7 execution @ 1693240548791, started @ 1693240548509, elapsed time = 0.282s
+16:35:59.934 [info] Handle Execution of Cells 3 for ~/code/ML_Car_prediction.ipynb
+16:35:59.973 [info] Kernel acknowledged execution of cell 3 @ 1693240559947
+16:36:00.029 [info] End cell 3 execution @ 1693240560019, started @ 1693240559947, elapsed time = 0.072s
+16:36:17.166 [info] Handle Execution of Cells 4 for ~/code/ML_Car_prediction.ipynb
+16:36:17.189 [info] Kernel acknowledged execution of cell 4 @ 1693240577177
+16:36:17.202 [info] End cell 4 execution @ 1693240577193, started @ 1693240577177, elapsed time = 0.016s
+16:36:20.188 [info] Handle Execution of Cells 5 for ~/code/ML_Car_prediction.ipynb
+16:36:20.205 [info] Kernel acknowledged execution of cell 5 @ 1693240580196
+16:36:20.218 [info] End cell 5 execution @ 1693240580208, started @ 1693240580196, elapsed time = 0.012s
+16:36:24.288 [info] Handle Execution of Cells 6 for ~/code/ML_Car_prediction.ipynb
+16:36:24.308 [info] Kernel acknowledged execution of cell 6 @ 1693240584301
+16:36:24.343 [info] End cell 6 execution @ 1693240584336, started @ 1693240584301, elapsed time = 0.035s
+16:36:29.284 [info] Handle Execution of Cells 7 for ~/code/ML_Car_prediction.ipynb
+16:36:29.304 [info] Kernel acknowledged execution of cell 7 @ 1693240589290
+16:36:29.575 [info] End cell 7 execution @ 1693240589564, started @ 1693240589290, elapsed time = 0.274s
+16:36:35.126 [info] Handle Execution of Cells 8 for ~/code/ML_Car_prediction.ipynb
+16:36:35.144 [info] Kernel acknowledged execution of cell 8 @ 1693240595140
+16:36:35.232 [info] End cell 8 execution @ 1693240595218, started @ 1693240595140, elapsed time = 0.078s
+16:36:39.151 [info] Handle Execution of Cells 9 for ~/code/ML_Car_prediction.ipynb
+16:36:39.175 [info] Kernel acknowledged execution of cell 9 @ 1693240599163
+16:36:39.255 [info] End cell 9 execution @ 1693240599242, started @ 1693240599163, elapsed time = 0.079s
+16:36:51.987 [info] Handle Execution of Cells 10 for ~/code/ML_Car_prediction.ipynb
+16:36:52.025 [info] Kernel acknowledged execution of cell 10 @ 1693240611998
+16:36:52.091 [info] End cell 10 execution @ 1693240612086, started @ 1693240611998, elapsed time = 0.088s
+16:37:07.481 [info] Handle Execution of Cells 11 for ~/code/ML_Car_prediction.ipynb
+16:37:07.504 [info] Kernel acknowledged execution of cell 11 @ 1693240627493
+16:37:07.519 [info] End cell 11 execution @ 1693240627511, started @ 1693240627493, elapsed time = 0.018s
+16:37:12.013 [info] Handle Execution of Cells 13 for ~/code/ML_Car_prediction.ipynb
+16:37:12.037 [info] Kernel acknowledged execution of cell 13 @ 1693240632020
+16:37:12.073 [info] End cell 13 execution @ 1693240632065, started @ 1693240632020, elapsed time = 0.045s
+16:37:40.222 [info] Handle Execution of Cells 14 for ~/code/ML_Car_prediction.ipynb
+16:37:40.261 [info] Kernel acknowledged execution of cell 14 @ 1693240660232
+16:37:40.265 [info] End cell 14 execution @ 1693240660247, started @ 1693240660232, elapsed time = 0.015s
+16:37:44.924 [info] Handle Execution of Cells 15 for ~/code/ML_Car_prediction.ipynb
+16:37:44.948 [info] Kernel acknowledged execution of cell 15 @ 1693240664932
+16:37:44.976 [info] End cell 15 execution @ 1693240664969, started @ 1693240664932, elapsed time = 0.037s
+16:37:47.871 [info] Handle Execution of Cells 16 for ~/code/ML_Car_prediction.ipynb
+16:37:47.894 [info] Kernel acknowledged execution of cell 16 @ 1693240667882
+16:37:48.010 [info] End cell 16 execution @ 1693240667988, started @ 1693240667882, elapsed time = 0.106s
+16:37:50.674 [info] Handle Execution of Cells 17 for ~/code/ML_Car_prediction.ipynb
+16:37:50.695 [info] Kernel acknowledged execution of cell 17 @ 1693240670684
+16:37:50.708 [info] End cell 17 execution @ 1693240670698, started @ 1693240670684, elapsed time = 0.014s
+16:38:13.239 [info] Handle Execution of Cells 19 for ~/code/ML_Car_prediction.ipynb
+16:38:13.271 [info] Kernel acknowledged execution of cell 19 @ 1693240693258
+16:38:16.485 [info] End cell 19 execution @ 1693240696476, started @ 1693240693258, elapsed time = 3.218s
+16:38:27.109 [info] Handle Execution of Cells 20 for ~/code/ML_Car_prediction.ipynb
+16:38:27.123 [info] Kernel acknowledged execution of cell 20 @ 1693240707119
+16:38:28.903 [info] End cell 20 execution @ 1693240708887, started @ 1693240707119, elapsed time = 1.768s
+16:38:48.620 [info] Handle Execution of Cells 21 for ~/code/ML_Car_prediction.ipynb
+16:38:48.639 [info] Kernel acknowledged execution of cell 21 @ 1693240728627
+16:38:51.038 [info] End cell 21 execution @ 1693240731027, started @ 1693240728627, elapsed time = 2.4s
+16:39:43.709 [info] Handle Execution of Cells 21 for ~/code/ML_Car_prediction.ipynb
+16:39:43.743 [info] Kernel acknowledged execution of cell 21 @ 1693240783726
+16:39:45.382 [info] End cell 21 execution @ 1693240785377, started @ 1693240783726, elapsed time = 1.651s
+16:39:53.156 [info] Handle Execution of Cells 22 for ~/code/ML_Car_prediction.ipynb
+16:39:53.505 [info] Kernel acknowledged execution of cell 22 @ 1693240793163
+16:39:54.209 [info] End cell 22 execution @ 1693240794202, started @ 1693240793163, elapsed time = 1.039s
+16:40:00.313 [info] Handle Execution of Cells 23 for ~/code/ML_Car_prediction.ipynb
+16:40:00.354 [info] Kernel acknowledged execution of cell 23 @ 1693240800323
+16:40:04.652 [info] End cell 23 execution @ 1693240804312, started @ 1693240800323, elapsed time = 3.989s
+16:40:08.913 [info] Handle Execution of Cells 23 for ~/code/ML_Car_prediction.ipynb
+16:40:09.005 [info] Kernel acknowledged execution of cell 23 @ 1693240808926
+16:40:10.875 [info] End cell 23 execution @ 1693240810851, started @ 1693240808926, elapsed time = 1.925s
+16:56:43.953 [info] Handle Execution of Cells 24 for ~/code/ML_Car_prediction.ipynb
+16:56:44.231 [info] Kernel acknowledged execution of cell 24 @ 1693241804172
+16:56:47.864 [info] End cell 24 execution @ 1693241807606, started @ 1693241804172, elapsed time = 3.434s
+16:56:54.018 [info] Handle Execution of Cells 26 for ~/code/ML_Car_prediction.ipynb
+16:56:54.268 [info] Kernel acknowledged execution of cell 26 @ 1693241814033
+16:56:55.915 [info] End cell 26 execution @ 1693241815909, started @ 1693241814033, elapsed time = 1.876s
+16:57:04.032 [info] Handle Execution of Cells 27 for ~/code/ML_Car_prediction.ipynb
+16:57:04.063 [info] Kernel acknowledged execution of cell 27 @ 1693241824045
+16:57:07.047 [info] End cell 27 execution @ 1693241827029, started @ 1693241824045, elapsed time = 2.984s
+16:57:16.247 [info] Handle Execution of Cells 29 for ~/code/ML_Car_prediction.ipynb
+16:57:16.330 [info] Kernel acknowledged execution of cell 29 @ 1693241836284
+16:57:21.670 [info] End cell 29 execution @ 1693241841661, started @ 1693241836284, elapsed time = 5.377s
+16:57:28.947 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+16:57:29.059 [info] Kernel acknowledged execution of cell 30 @ 1693241848995
+16:57:35.362 [info] End cell 30 execution @ 1693241855207, started @ 1693241848995, elapsed time = 6.212s
+16:57:35.394 [warn] Cancel all remaining cells due to cancellation or failure in execution
+16:58:19.400 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+16:58:19.495 [info] Kernel acknowledged execution of cell 30 @ 1693241899472
+16:58:19.754 [info] End cell 30 execution @ 1693241899741, started @ 1693241899472, elapsed time = 0.269s
+16:58:19.762 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:01:10.394 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:01:10.433 [info] Kernel acknowledged execution of cell 30 @ 1693242070419
+17:01:10.796 [info] End cell 30 execution @ 1693242070629, started @ 1693242070419, elapsed time = 0.21s
+17:01:10.799 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:04:46.958 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:04:47.018 [info] Kernel acknowledged execution of cell 30 @ 1693242287001
+17:04:47.287 [info] End cell 30 execution @ 1693242287244, started @ 1693242287001, elapsed time = 0.243s
+17:04:47.289 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:04:48.455 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:04:48.485 [info] Kernel acknowledged execution of cell 30 @ 1693242288470
+17:04:48.956 [info] End cell 30 execution @ 1693242288788, started @ 1693242288470, elapsed time = 0.318s
+17:04:48.957 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:07:45.090 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:07:45.267 [info] Kernel acknowledged execution of cell 30 @ 1693242465242
+17:07:45.562 [info] End cell 30 execution @ 1693242465549, started @ 1693242465242, elapsed time = 0.307s
+17:07:45.583 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:08:00.413 [info] Handle Execution of Cells 33 for ~/code/ML_Car_prediction.ipynb
+17:08:01.818 [info] Kernel acknowledged execution of cell 33 @ 1693242481677
+17:08:02.400 [info] End cell 33 execution @ 1693242482387, started @ 1693242481677, elapsed time = 0.71s
+17:08:04.579 [info] Handle Execution of Cells 35 for ~/code/ML_Car_prediction.ipynb
+17:08:04.657 [info] Kernel acknowledged execution of cell 35 @ 1693242484642
+17:08:04.918 [info] End cell 35 execution @ 1693242484735, started @ 1693242484642, elapsed time = 0.093s
+17:22:07.767 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:22:17.807 [info] Kernel acknowledged execution of cell 30 @ 1693243335505
+17:22:35.154 [info] Handle Execution of Cells 33 for ~/code/ML_Car_prediction.ipynb
+17:22:50.267 [info] Handle Execution of Cells 34 for ~/code/ML_Car_prediction.ipynb
+17:24:52.274 [info] End cell 30 execution @ 1693243489932, started @ 1693243335505, elapsed time = 154.427s
+17:24:52.275 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:24:52.321 [info] End cell 33 execution @ undefined, started @ undefined, elapsed time = 0s
+17:24:52.321 [info] End cell 34 execution @ undefined, started @ undefined, elapsed time = 0s
+17:30:24.192 [info] Handle Execution of Cells 0 for ~/code/ML_Car_prediction.ipynb
+17:30:24.332 [info] Kernel acknowledged execution of cell 0 @ 1693243824323
+17:30:24.784 [info] End cell 0 execution @ 1693243824707, started @ 1693243824323, elapsed time = 0.384s
+17:30:27.198 [info] Handle Execution of Cells 0 for ~/code/ML_Car_prediction.ipynb
+17:30:27.351 [info] Kernel acknowledged execution of cell 0 @ 1693243827269
+17:30:27.574 [info] End cell 0 execution @ 1693243827360, started @ 1693243827269, elapsed time = 0.091s
+17:30:32.215 [info] Handle Execution of Cells 1 for ~/code/ML_Car_prediction.ipynb
+17:30:32.612 [info] Kernel acknowledged execution of cell 1 @ 1693243832285
+17:30:41.545 [info] End cell 1 execution @ 1693243841533, started @ 1693243832285, elapsed time = 9.248s
+17:30:45.302 [info] Handle Execution of Cells 2 for ~/code/ML_Car_prediction.ipynb
+17:30:45.569 [info] Kernel acknowledged execution of cell 2 @ 1693243845356
+17:30:46.070 [info] End cell 2 execution @ 1693243845701, started @ 1693243845356, elapsed time = 0.345s
+17:30:48.027 [info] Handle Execution of Cells 3 for ~/code/ML_Car_prediction.ipynb
+17:30:48.115 [info] Kernel acknowledged execution of cell 3 @ 1693243848040
+17:30:51.976 [info] Handle Execution of Cells 4 for ~/code/ML_Car_prediction.ipynb
+17:30:53.858 [info] End cell 3 execution @ 1693243853755, started @ 1693243848040, elapsed time = 5.715s
+17:30:54.040 [info] Kernel acknowledged execution of cell 4 @ 1693243853912
+17:30:54.179 [info] End cell 4 execution @ 1693243854153, started @ 1693243853912, elapsed time = 0.241s
+17:31:45.654 [info] Handle Execution of Cells 2 for ~/code/ML_Car_prediction.ipynb
+17:31:45.694 [info] Kernel acknowledged execution of cell 2 @ 1693243905684
+17:31:45.753 [info] End cell 2 execution @ 1693243905713, started @ 1693243905684, elapsed time = 0.029s
+17:31:50.135 [info] Handle Execution of Cells 3 for ~/code/ML_Car_prediction.ipynb
+17:31:50.239 [info] Kernel acknowledged execution of cell 3 @ 1693243910226
+17:31:50.379 [info] End cell 3 execution @ 1693243910335, started @ 1693243910226, elapsed time = 0.109s
+17:31:53.192 [info] Handle Execution of Cells 4 for ~/code/ML_Car_prediction.ipynb
+17:31:53.226 [info] Kernel acknowledged execution of cell 4 @ 1693243913220
+17:31:53.303 [info] End cell 4 execution @ 1693243913258, started @ 1693243913220, elapsed time = 0.038s
+17:31:56.826 [info] Handle Execution of Cells 5 for ~/code/ML_Car_prediction.ipynb
+17:31:56.885 [info] Kernel acknowledged execution of cell 5 @ 1693243916856
+17:31:57.031 [info] End cell 5 execution @ 1693243917025, started @ 1693243916856, elapsed time = 0.169s
+17:32:01.449 [info] Handle Execution of Cells 7 for ~/code/ML_Car_prediction.ipynb
+17:32:02.081 [info] Kernel acknowledged execution of cell 7 @ 1693243921503
+17:32:05.206 [info] End cell 7 execution @ 1693243925159, started @ 1693243921503, elapsed time = 3.656s
+17:32:06.670 [info] Handle Execution of Cells 9 for ~/code/ML_Car_prediction.ipynb
+17:32:06.773 [info] Kernel acknowledged execution of cell 9 @ 1693243926686
+17:32:07.280 [info] End cell 9 execution @ 1693243927266, started @ 1693243926686, elapsed time = 0.58s
+17:32:10.695 [info] Handle Execution of Cells 11 for ~/code/ML_Car_prediction.ipynb
+17:32:10.837 [info] Kernel acknowledged execution of cell 11 @ 1693243930717
+17:32:11.095 [info] End cell 11 execution @ 1693243931082, started @ 1693243930717, elapsed time = 0.365s
+17:32:15.070 [info] Handle Execution of Cells 13 for ~/code/ML_Car_prediction.ipynb
+17:32:15.160 [info] Kernel acknowledged execution of cell 13 @ 1693243935079
+17:32:15.339 [info] End cell 13 execution @ 1693243935297, started @ 1693243935079, elapsed time = 0.218s
+17:32:19.060 [info] Handle Execution of Cells 14 for ~/code/ML_Car_prediction.ipynb
+17:32:19.077 [info] Kernel acknowledged execution of cell 14 @ 1693243939071
+17:32:19.105 [info] End cell 14 execution @ 1693243939086, started @ 1693243939071, elapsed time = 0.015s
+17:32:21.296 [info] Handle Execution of Cells 15 for ~/code/ML_Car_prediction.ipynb
+17:32:21.325 [info] Kernel acknowledged execution of cell 15 @ 1693243941309
+17:32:21.476 [info] End cell 15 execution @ 1693243941379, started @ 1693243941309, elapsed time = 0.07s
+17:32:24.323 [info] Handle Execution of Cells 16 for ~/code/ML_Car_prediction.ipynb
+17:32:24.405 [info] Kernel acknowledged execution of cell 16 @ 1693243944329
+17:32:25.283 [info] End cell 16 execution @ 1693243945182, started @ 1693243944329, elapsed time = 0.853s
+17:32:28.033 [info] Handle Execution of Cells 17 for ~/code/ML_Car_prediction.ipynb
+17:32:28.056 [info] Kernel acknowledged execution of cell 17 @ 1693243948045
+17:32:28.066 [info] End cell 17 execution @ 1693243948059, started @ 1693243948045, elapsed time = 0.014s
+17:32:32.821 [info] Handle Execution of Cells 19 for ~/code/ML_Car_prediction.ipynb
+17:32:32.950 [info] Kernel acknowledged execution of cell 19 @ 1693243952829
+17:32:40.558 [info] End cell 19 execution @ 1693243960552, started @ 1693243952829, elapsed time = 7.723s
+17:33:11.359 [info] Handle Execution of Cells 20 for ~/code/ML_Car_prediction.ipynb
+17:33:11.437 [info] Kernel acknowledged execution of cell 20 @ 1693243991372
+17:33:15.105 [info] End cell 20 execution @ 1693243995052, started @ 1693243991372, elapsed time = 3.68s
+17:33:21.116 [info] Handle Execution of Cells 21 for ~/code/ML_Car_prediction.ipynb
+17:33:21.140 [info] Kernel acknowledged execution of cell 21 @ 1693244001124
+17:33:24.566 [info] End cell 21 execution @ 1693244004559, started @ 1693244001124, elapsed time = 3.435s
+17:33:28.087 [info] Handle Execution of Cells 22 for ~/code/ML_Car_prediction.ipynb
+17:33:28.174 [info] Kernel acknowledged execution of cell 22 @ 1693244008094
+17:33:30.130 [info] End cell 22 execution @ 1693244010075, started @ 1693244008094, elapsed time = 1.981s
+17:33:34.803 [info] Handle Execution of Cells 23 for ~/code/ML_Car_prediction.ipynb
+17:33:34.849 [info] Kernel acknowledged execution of cell 23 @ 1693244014812
+17:33:38.350 [info] End cell 23 execution @ 1693244018297, started @ 1693244014812, elapsed time = 3.485s
+17:33:43.107 [info] Handle Execution of Cells 24 for ~/code/ML_Car_prediction.ipynb
+17:33:43.181 [info] Kernel acknowledged execution of cell 24 @ 1693244023123
+17:34:27.523 [info] End cell 24 execution @ 1693244067389, started @ 1693244023123, elapsed time = 44.266s
+17:34:32.847 [info] Handle Execution of Cells 27 for ~/code/ML_Car_prediction.ipynb
+17:34:32.869 [info] Kernel acknowledged execution of cell 27 @ 1693244072860
+17:34:35.761 [info] End cell 27 execution @ 1693244075749, started @ 1693244072860, elapsed time = 2.889s
+17:34:41.126 [info] Handle Execution of Cells 29 for ~/code/ML_Car_prediction.ipynb
+17:34:41.186 [info] Kernel acknowledged execution of cell 29 @ 1693244081135
+17:34:41.263 [info] End cell 29 execution @ 1693244081244, started @ 1693244081135, elapsed time = 0.109s
+17:34:45.088 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:34:45.172 [info] Kernel acknowledged execution of cell 30 @ 1693244085097
+17:34:45.513 [info] End cell 30 execution @ 1693244085507, started @ 1693244085097, elapsed time = 0.41s
+17:34:45.516 [warn] Cancel all remaining cells due to cancellation or failure in execution
+17:37:48.301 [info] Handle Execution of Cells 30 for ~/code/ML_Car_prediction.ipynb
+17:37:48.356 [info] Kernel acknowledged execution of cell 30 @ 1693244268337
+17:37:48.608 [info] End cell 30 execution @ 1693244268593, started @ 1693244268337, elapsed time = 0.256s
+17:37:48.609 [warn] Cancel all remaining cells due to cancellation or failure in execution
+19:52:36.324 [info] Disposing HostJupyterExecution
+19:52:36.325 [info] Shutting down notebooks for fb314cf1-610d-4516-84c8-d92c6ddd677c
+19:52:36.385 [info] Dispose Kernel '~/code/experiment_1.ipynb' associated with '~/code/experiment_1.ipynb'
+19:52:36.494 [info] Dispose Kernel '~/code/Car_prediction.ipynb' associated with '~/code/Car_prediction.ipynb'
+19:52:36.687 [info] Dispose Kernel process 8007.
+19:52:36.849 [info] Dispose Kernel '~/code/ML_Car_prediction.ipynb' associated with '~/code/ML_Car_prediction.ipynb'
+19:52:36.851 [info] Dispose Kernel process 8899.
+19:52:36.941 [info] Disposing HostJupyterExecution

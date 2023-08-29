@@ -1,0 +1,21 @@
+2023-08-27 19:44:44.965 [info] 
+
+
+
+
+2023-08-27 19:44:46.075 [info] Extension host agent started.
+2023-08-27 19:44:51.075 [info] [127.0.0.1][cb41ea77][ManagementConnection] New connection established.
+2023-08-27 19:44:51.135 [debug] No uninstalled extensions found.
+2023-08-27 19:44:51.525 [info] Log level changed to info
+2023-08-27 19:44:55.735 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] New connection established.
+2023-08-27 19:44:56.285 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] <426> Launched Extension Host Process.
+2023-08-27 19:46:59.854 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] The client has reconnected.
+2023-08-27 19:47:27.393 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] The client has reconnected.
+2023-08-27 19:47:52.506 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] The client has reconnected.
+2023-08-27 19:48:19.100 [info] [127.0.0.1][0f984b8c][ExtensionHostConnection] The client has reconnected.
+2023-08-27 19:50:30.727 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 19:50:35.880 [error] No ptyHost heartbeat after 12 seconds
+2023-08-27 20:12:26.900 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 20:12:47.743 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 20:15:41.237 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 20:15:57.607 [warning] No ptyHost heartbeat after 6 seconds

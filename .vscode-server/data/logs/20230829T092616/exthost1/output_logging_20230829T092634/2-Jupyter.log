@@ -1,0 +1,33 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder /root, Home = /root
+09:26:46.922 [info] User belongs to experiment group 'FastKernelPicker'
+09:26:46.922 [info] User belongs to experiment group 'NewRemoteUriStorage'
+09:26:46.923 [info] User belongs to experiment group 'PasswordManager'
+09:26:46.923 [info] User belongs to experiment group 'NewJupyterSession'
+09:26:47.655 [info] Start refreshing Kernel Picker (1693301207655)
+09:26:47.672 [info] Using Pylance
+09:26:50.895 [info] Start refreshing Interpreter Kernel Picker
+09:26:52.194 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/ML_Car_prediction.ipynb' (disableUI=true)
+09:26:52.536 [warn] Failed to get activated env vars for /usr/local/bin/python in 1682ms
+09:26:52.553 [warn] Failed to get activated env vars for /usr/local/bin/python in 320ms
+09:26:52.583 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+09:26:53.134 [info] Process Execution: /usr/local/bin/python -m pip list
+09:26:53.182 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+09:26:53.190 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"dcc06856-cfe8-4555-8b2b-d4064060c393" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-379fmKYipQ7IZaJ.json
+    > cwd: ~/code
+09:26:54.436 [info] End refreshing Kernel Picker (1693301207655)
+09:26:54.786 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+09:26:59.971 [warn] StdErr from Kernel Process 0.02s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+09:27:00.351 [info] Started Kernel Python 3.11.4 (pid: 676)
+09:27:00.351 [info] Started new session 4343eeab-2ba4-495e-8e12-5510c7599fc7
+09:28:19.656 [info] Disposing HostJupyterExecution
+09:28:19.656 [info] Shutting down notebooks for d81be99d-0cc4-4c91-bdcc-1c6bb0b6c168
+09:28:19.657 [info] Dispose Kernel '~/code/ML_Car_prediction.ipynb' associated with '~/code/ML_Car_prediction.ipynb'
+09:28:19.659 [info] Dispose Kernel process 676.
+09:28:19.669 [info] Disposing HostJupyterExecution

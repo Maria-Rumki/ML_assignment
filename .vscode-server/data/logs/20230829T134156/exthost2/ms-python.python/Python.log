@@ -1,0 +1,29 @@
+2023-08-29 14:24:45.151 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-29 14:24:45.152 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-29 14:24:45.154 [info] Experiment 'pythonSurveyNotification' is active
+2023-08-29 14:24:45.154 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-29 14:24:45.155 [info] Test server listening.
+2023-08-29 14:24:45.155 [info] Python interpreter path: /usr/local/bin/python
+2023-08-29 14:24:50.104 [info] > conda info --json
+2023-08-29 14:25:21.723 [info] Starting Pylance language server.
+2023-08-29 14:46:35.194 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-29 14:46:35.212 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-29 14:46:39.816 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-29 14:46:39.829 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-29 14:46:43.679 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-08-29 14:46:43.680 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-08-29 14:46:43.681 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-08-29 14:46:49.533 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 14:47:24.150 [error] Failed to parse interpreter information for >> /bin/python3 -I /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py << with Error: python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py returned bad JSON () (SyntaxError: Unexpected end of JSON input)
+2023-08-29 14:47:31.189 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 14:47:31.802 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 14:47:35.673 [info] > /usr/local/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-29 15:04:23.286 [info] Discover tests for workspace name: root - uri: /root/code/minimal.py
+2023-08-29 15:11:42.067 [info] Discover tests for workspace name: root - uri: /root/code/main.py
+2023-08-29 15:12:10.156 [info] Discover tests for workspace name: root - uri: /root/code/minimal.py
+2023-08-29 15:12:10.912 [info] DAP Server launched with command: /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-29 15:12:13.775 [info] Send text to terminal:  /usr/bin/env /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33145 -- /root/code/main.py 
+2023-08-29 15:14:18.650 [info] Discover tests for workspace name: root - uri: /root/code/minimal.py
+2023-08-29 15:15:36.429 [info] Discover tests for workspace name: root - uri: /root/code/main.py
+2023-08-29 15:16:01.842 [info] DAP Server launched with command: /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-29 15:16:04.724 [info] Send text to terminal:  /usr/bin/env /usr/local/bin/python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44237 -- /root/code/main.py 

@@ -1,0 +1,83 @@
+2023-08-27 22:15:04.160 [info] 
+
+
+
+
+2023-08-27 22:15:04.407 [info] Extension host agent started.
+2023-08-27 22:15:05.268 [debug] No uninstalled extensions found.
+2023-08-27 22:15:06.811 [info] [127.0.0.1][4933fb02][ManagementConnection] New connection established.
+2023-08-27 22:15:06.840 [info] Log level changed to info
+2023-08-27 22:15:08.302 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/package.json: [61432, 2494] .
+2023-08-27 22:15:08.309 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/package.json: [63926, 0] Closing brace expected.
+2023-08-27 22:15:08.321 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/package.json: [63926, 0] Closing bracket expected.
+2023-08-27 22:15:08.322 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/package.json: [63926, 0] Closing brace expected.
+2023-08-27 22:15:08.330 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/package.json: [63926, 0] Closing brace expected.
+2023-08-27 22:15:10.746 [info] [127.0.0.1][789c8197][ExtensionHostConnection] New connection established.
+2023-08-27 22:15:10.866 [info] [127.0.0.1][789c8197][ExtensionHostConnection] <357> Launched Extension Host Process.
+2023-08-27 22:15:43.081 [info] [127.0.0.1][789c8197][ExtensionHostConnection] <357> Starting WebSocket: RAW/api/kernels/354154fe-5014-43c0-bf51-153fd44b4b8c
+
+2023-08-27 22:26:25.932 [info] [127.0.0.1][4933fb02][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-27 22:26:25.957 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:25.960 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:25.962 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:25.963 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.008 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.009 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.010 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.012 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.013 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 22:26:26.275 [info] [127.0.0.1][789c8197][ExtensionHostConnection] <357> Extension Host Process exited with code: 0, signal: null.

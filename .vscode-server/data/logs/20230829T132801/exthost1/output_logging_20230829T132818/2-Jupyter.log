@@ -1,0 +1,52 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder /root, Home = /root
+13:28:26.082 [info] User belongs to experiment group 'FastKernelPicker'
+13:28:26.082 [info] User belongs to experiment group 'NewRemoteUriStorage'
+13:28:26.082 [info] User belongs to experiment group 'PasswordManager'
+13:28:26.082 [info] User belongs to experiment group 'NewJupyterSession'
+13:28:27.157 [info] Start refreshing Kernel Picker (1693315707157)
+13:28:27.189 [info] Using Pylance
+13:28:28.755 [info] Start refreshing Interpreter Kernel Picker
+13:28:34.049 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/ML_Car_prediction.ipynb' (disableUI=true)
+13:28:35.292 [warn] Failed to get activated env vars for /usr/local/bin/python in 3359ms
+13:28:35.312 [warn] Failed to get activated env vars for /usr/local/bin/python in 1148ms
+13:28:35.472 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+13:28:37.263 [info] Process Execution: /usr/local/bin/python -m pip list
+13:28:37.282 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:28:37.300 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"5c997bb5-0b34-4e98-9e1f-445e5fd1d1c0" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-358nOrWqc8H43ru.json
+    > cwd: ~/code
+13:28:38.802 [info] End refreshing Kernel Picker (1693315707157)
+13:28:41.085 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+13:28:47.415 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:28:47.754 [info] Started Kernel Python 3.11.4 (pid: 681)
+13:28:47.754 [info] Started new session 7c5f8799-6b2d-459a-b993-946e87714bad
+13:28:57.845 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/Car_prediction.ipynb' (disableUI=true)
+13:28:58.058 [warn] Failed to get activated env vars for /usr/local/bin/python in 194ms
+13:28:58.070 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:28:58.126 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"766e69f5-8081-4e5a-8455-5a3693a0191d" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-358AQ2Yjp7fSI91.json
+    > cwd: ~/code
+13:28:59.643 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+13:29:00.582 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:29:00.725 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+13:29:00.727 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '766e69f5-8081-4e5a-8455-5a3693a0191d' instead of 'b"766e69f5-8081-4e5a-8455-5a3693a0191d"'.
+  warn(
+13:29:01.051 [info] Started Kernel Python 3.11.4 (pid: 896)
+13:29:01.051 [info] Started new session 37a91638-0826-41d7-9b68-88fe559cc801
+13:29:01.180 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py
+13:30:07.214 [info] Disposing HostJupyterExecution
+13:30:07.214 [info] Shutting down notebooks for c4113014-c428-487e-b487-4e7ccc4753bd
+13:30:07.216 [info] Dispose Kernel '~/code/ML_Car_prediction.ipynb' associated with '~/code/ML_Car_prediction.ipynb'
+13:30:07.221 [info] Dispose Kernel process 681.
+13:30:07.263 [info] Dispose Kernel '~/code/Car_prediction.ipynb' associated with '~/code/Car_prediction.ipynb'
+13:30:07.271 [info] Dispose Kernel process 896.
+13:30:07.293 [info] Disposing HostJupyterExecution

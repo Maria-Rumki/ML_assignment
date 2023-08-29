@@ -1,0 +1,16 @@
+2023-08-29 02:54:10.755 [info] 
+
+
+
+
+2023-08-29 02:54:11.001 [info] Extension host agent started.
+2023-08-29 02:54:14.248 [debug] No uninstalled extensions found.
+2023-08-29 02:54:14.313 [info] [127.0.0.1][680512c4][ManagementConnection] New connection established.
+2023-08-29 02:54:14.341 [info] Log level changed to info
+2023-08-29 02:54:15.413 [info] [127.0.0.1][dad470df][ExtensionHostConnection] New connection established.
+2023-08-29 02:54:15.525 [info] [127.0.0.1][dad470df][ExtensionHostConnection] <363> Launched Extension Host Process.
+2023-08-29 02:54:52.927 [info] [127.0.0.1][dad470df][ExtensionHostConnection] <363> Starting WebSocket: RAW/api/kernels/6345534e-4556-4b16-8d10-0dbf9a339533
+
+2023-08-29 04:59:34.926 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-29 06:00:05.139 [info] [127.0.0.1][dad470df][ExtensionHostConnection] The client has reconnected.
+2023-08-29 06:00:05.253 [info] [127.0.0.1][680512c4][ManagementConnection] The client has reconnected.
